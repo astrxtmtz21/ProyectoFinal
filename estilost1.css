@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Montserrat+Alternates|Poppins&display=swap');
+iframe{
+    width: 80%;
+    height: 90vh;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+    cursor: pointer;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+p{
+    font-size: xx-large;
+    background-color: white;
+}
+body{
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/ImgCentroTecnologicoAragon.jpg/1920px-ImgCentroTecnologicoAragon.jpg);
+		background-size:cover;
+		background-repeat: no-repeat;
+}
+a{
+    position: relative;
+    display: inline-block;
+    padding: 15px 30px;
+    color: white;
+    letter-spacing: 4px;
+    font-size: 24px;
+    text-decoration: none;
+    overflow: hidden;
+    transition: 0.2s;
+    text-align: center;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+a:hover{
+    background: navy;
+    box-shadow: 
+}
